@@ -1,4 +1,4 @@
-// Assignment Code
+// Variable Codes
 var abcUpper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var abcUpperArr= abcUpper.split("");
 var abcLower ="abcdefghijklmnopqrstuvwxyz";
@@ -8,9 +8,9 @@ var numArr = num.split("");
 var sym = "!#$%&\()*+,-./:;<=>?@^_`{|}~";
 var symArr = sym.split("");
 
-// Prompt instruction for the user to begin
+// Alert to prompt instruction for the user to begin
 
-window.onload = alert("welcome! Please click 'Generate password' to start!");
+window.onload = alert("Welcome! Please click 'Generate password' to start!");
 
 // Main function = Password Generation
 
