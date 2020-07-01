@@ -1,2 +1,5 @@
 # Password-Generator-HW
 This password generator provides the customer with a strong password to help them protect sensitive data. They can pick a password that includes 8-128 characters (upper case letters, lower case letters, numbers, symbols). When the customer opens the page, they will be alerted to click the Gereate Password button. I then set the main function to gerate the password. I used an alert if the customer chooses outside of the 8-128 units. There is a series of questions to add conditions to the password that the customer can answer. I created an alert to let the customer know that they must select one condition in order to generate a password if they try not to select any characters. After the customer goes through all of the conditional questions, I used a for loop to confirm the information and generate a password. Finally, the final result is displayed.
+
+link to deployed app
+https://gmilteer.github.io/Password-Generator-HW/
